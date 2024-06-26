@@ -90,7 +90,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to the developers of Node.js, Socket.IO, Express.js, React.js, Chakra UI, and MongoDB for creating such powerful and versatile technologies.
 - Special thanks to the open-source community for their invaluable contributions and support.
-
-## Contact
-
-For inquiries or support, please contact [samerabood195@gmail.com](mailto:samerabood195@gmail.com).
