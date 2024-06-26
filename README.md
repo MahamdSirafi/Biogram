@@ -32,7 +32,7 @@ Biogram is a real-time messaging application built with Node.js, TypeScript, Soc
 ## Getting Started
 
 1. **Clone the Repository:**
-   git clone <https://github.com/bahaa-alden/chatapp.git>
+   git clone <https://github.com/MahamdSirafi/Biogram.git>
 
 2. **Install Backend Dependencies:**
 
